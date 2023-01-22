@@ -1,0 +1,44 @@
+body {
+    font-family: "Rubik", sans-serif;
+  }
+  .poster {
+    padding: 20px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2),
+      0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    display: inline-block;
+    border-radius: 10px;
+  }
+  .poster-img {
+    width: 400px;
+    border-radius: 10px;
+  }
+  p {
+    display: inline-block;
+    font-weight: bold;
+    margin-bottom: 0;
+    margin-right: 10px;
+  }
+  .current-price {
+    color: rgb(102 116 204);
+  }
+  .original-price {
+    color: #8b7e74;
+  }
+  .discount {
+    background-color: rgb(29 209 161);
+    color: white;
+    border-radius: 5px;
+    padding: 8px;
+    font-size: small;
+  }
+  .desc {
+    font-weight: bold;
+    font-size: x-large;
+    width: 350px;
+    margin: 10px 0;
+  }
+  hr {
+    margin: 0;
+    border: 1px solid rgb(237 237 237);
+    width: 300px;
+  }
