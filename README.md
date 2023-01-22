@@ -1,5 +1,5 @@
 ## -Poster
-# Simple Poster using basic HTML and CSS
+#### Simple Poster using basic HTML and CSS
 ---
 
 <div align="center">
